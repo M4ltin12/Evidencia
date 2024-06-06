@@ -1,6 +1,4 @@
-# EVIDENCIA
+# Avace de EVIDENCIA
 
 "Instalación y configuración" 
-"Uso del programa"
-"Créditos"
-"Licencia"
+"Martin Antonio Joaquin Landa"
